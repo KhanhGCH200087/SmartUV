@@ -1,0 +1,25 @@
+{
+  "cycles": [
+    {
+      "id": 1,
+      "status": 1,
+      "start": "02:00",
+      "end": "02:30",
+      "day": [1, 1, 1, 1, 1, 1, 1],
+      "fan_enable": 1,
+      "fan_delay": 30
+    },
+    {
+      "id": 2,
+      "status": 1,
+      "start": "02:00",
+      "end": "02:30",
+      "day": [1, 1, 1, 1, 1, 1, 1],
+      "fan_enable": 1,
+      "fan_delay": 20
+    }
+  ],
+  "timeZone": 420,
+  "cycle_counter": 2,
+  "mode": 2
+}
